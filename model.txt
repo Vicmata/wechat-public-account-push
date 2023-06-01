@@ -1,0 +1,7 @@
+今天：{{date.DATA}} 
+天气：{{weather.DATA}} 
+气温：{{min_temperature.DATA}}℃ ~ {{max_temperature.DATA}}℃ 
+空气质量指数：{{aqi.DATA}} 
+天气温馨语：{{notice.DATA}} 
+每日一句：{{note_ch.DATA}} 
+今日热搜榜：{{tian_api_network_hot.DATA}} 
