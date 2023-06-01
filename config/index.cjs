@@ -23,7 +23,9 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oTXM0526-6Kk78UWMgFHEPPjFINU',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'gSYQAS1oDr_dhgAAJ66utMHtFbfXkNt5ynKXWo59ilc'
+      useTemplateId: 'gSYQAS1oDr_dhgAAJ66utMHtFbfXkNt5ynKXWo59ilc',
+      province: '山东',
+      city: '泰安',
     }
   ],
 
@@ -57,7 +59,10 @@ const USER_CONFIG = {
     networkHot: 3,
   
     // 全网热搜榜展示类型，默认展示概要信息: ['title': 仅展示标题, 'default': 展示概要信息]
-    networkHotType: 'default'
+    networkHotType: 'default',
+    province: '山东',
+    // 所在城市或县区
+    city: '泰安',
   },
 
 }
