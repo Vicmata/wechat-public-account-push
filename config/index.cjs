@@ -23,7 +23,7 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oTXM0526-6Kk78UWMgFHEPPjFINU',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'poWfndyL2lSaLat6m3zHKMpwjEPmmpIAINBJckZFBS4',
+      useTemplateId: 'UcUDjoPuM5q-q9Kk7FcTGDT9AydqKFZUpLxVMLpVIoY',
       province: '山东',
       city: '泰安',
     }
