@@ -28,7 +28,7 @@ const TEMPLATE_CONFIG = [
 
       ---
 
-      **今日热搜榜： **
+      今日热搜榜：
 
       {{tian_api_network_hot.DATA}}
 
