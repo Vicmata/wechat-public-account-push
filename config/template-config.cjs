@@ -5,12 +5,13 @@ const TEMPLATE_CONFIG = [
     title: '早上好',
     desc: `
       **{{date.DATA}}**
+      
 
       天气：{{weather.DATA}}
       
-      气温:{{min_temperature.DATA}} ~ {{max_temperature.DATA}}
+      气温：{{min_temperature.DATA}} ~ {{max_temperature.DATA}}
       
-      风向: {{wind_direction.DATA}}    {{wind_scale.DATA}}
+      风向：{{wind_direction.DATA}} {{wind_scale.DATA}}
 
       ---
 
@@ -27,10 +28,12 @@ const TEMPLATE_CONFIG = [
       ---
 
       温馨提示：
-      
+
+      {{earthy_love_words.DATA}}
+
       {{moment_copyrighting.DATA}}
       
-      {{poetry_title.DATA}} {{poetry_content.DATA}}
+      《{{poetry_title.DATA}}》 {{poetry_content.DATA}}
 
     `
   },
