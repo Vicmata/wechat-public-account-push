@@ -7,8 +7,12 @@
  */
 const USER_CONFIG = {
 
+  // 请将以下代码按照图示粘贴到对应位置
+  USE_PASSAGE: 'push-deer',
+
   // 使用微信测试号：公众号APP_ID
-  APP_ID: 'wxeacdb9fd4231d009',
+  // APP_ID: 'wxeacdb9fd4231d009',
+  APP_ID: '',
 
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: '8382ad4e10eeffd1f9497987f5bb8e3c',
@@ -21,9 +25,10 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '我',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'oTXM0526-6Kk78UWMgFHEPPjFINU',
+      // id: 'oTXM0526-6Kk78UWMgFHEPPjFINU',
+      id: 'PDU23167TxFRsFoRK9iW6wAmqjjzMNtFrU4aUIe7u',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'fQoxMY0qNaQIx6iiOfyWdHXb0ghxY3Wy68_RmwB4ivA'
+      useTemplateId: '0001'
     }
   ],
 
