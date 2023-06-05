@@ -29,6 +29,10 @@ const USER_CONFIG = {
       id: 'PDU23167TxFRsFoRK9iW6wAmqjjzMNtFrU4aUIe7u',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: '0001'
+    }, {
+      name: '媳妇',
+      id: 'PDU23170TK9jUpQXGqhcSl8Xf5vnEnnMWZf4AZyMZ',
+      useTemplateId: '0001'
     }
   ],
 
