@@ -26,12 +26,8 @@ const USER_CONFIG = {
       name: '我',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       // id: 'oTXM0526-6Kk78UWMgFHEPPjFINU',
-      id: 'PDU23167TxFRsFoRK9iW6wAmqjjzMNtFrU4aUIe7u',
+      id: 'PDU23167TvsgASIYDbA6XLZEaExeGBoBPA1nxkXm7',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: '0001'
-    }, {
-      name: '媳妇',
-      id: 'PDU23170TK9jUpQXGqhcSl8Xf5vnEnnMWZf4AZyMZ',
       useTemplateId: '0001'
     }
   ],
